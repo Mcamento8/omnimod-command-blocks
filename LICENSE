@@ -1,0 +1,34 @@
+OmniMod Engine-Source Mirror License
+
+Copyright (c) 2026 the OmniMod project.
+
+This repository is a read-only reference mirror of a part of the OmniMod
+game engine (the command-block and command-surface system, including the
+DEV/PLAY dual-mode gates). It is published so that human map authors and
+AI coding agents can read, learn from, and cite the exact code the engine
+runs.
+
+You MAY, free of charge:
+  1. clone, read, search, and reference this code;
+  2. quote excerpts (with file:line citations) in documentation, tutorials,
+     map descriptions, and agent context packs;
+  3. use the knowledge gained here to author original maps and data-driven
+     command logic for OmniMod (your maps are your own work and are NOT
+     covered by this license).
+
+You MAY NOT:
+  1. present this mirror (in whole or in substantial part) as your own
+     engine, game, or command system;
+  2. redistribute substantial verbatim portions of this tree under a
+     different project name without written permission from the OmniMod
+     maintainers;
+  3. use this code to misrepresent compatibility ("works with OmniMod")
+     for content you have not tested against the real game.
+
+Contributions that fix documentation or manifest errors are welcome via
+pull request; engine-code changes belong in the main OmniMod project, not
+in this mirror (this tree is overwritten on every re-export).
+
+THE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO FITNESS FOR A PARTICULAR PURPOSE.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM OR DAMAGES.

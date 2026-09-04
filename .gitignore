@@ -1,0 +1,20 @@
+# Build outputs & caches
+build/
+target/
+.gradle/
+node_modules/
+dist/
+*.class
+*.jar
+!docs/**/*.jar
+
+# Editors & OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.log
